@@ -11,7 +11,7 @@
    * 16:00 - [Introduction to Data Management](https://learn.georgebrown.ca/d2l/home/513886)
 * Tuesday
    * 08:00 - [Fundamentals of Computer Logic](https://learn.georgebrown.ca/d2l/home/514711)
-   * 10:00 - [Math for Computer Technology I](https://learn.georgebrown.ca/d2l/home/508263)
+   * 10:00 - [Math for Computer Technology ](https://learn.georgebrown.ca/d2l/home/508263)
    * 18:00 - [Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/516630)
 * Wednesday
    * 12:00 - [Communication Across Contexts](https://learn.georgebrown.ca/d2l/home/506176)
